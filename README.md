@@ -24,7 +24,7 @@ reporting periods for finance teams.
 - Risk Flag DAX logic
 
 ## 🔗 Live Dashboard
-[View Live Dashboard](https://app.fabric.microsoft.com/groups/me/reports/0d7de057-75f7-451e-b516-de26d97c9cc0/43513b3e6298c7eb1fd9?experience=power-bi)
+[View Live Dashboard](https://app.fabric.microsoft.com/groups/me/reports/8f5f3db1-68c4-4534-96b3-f82feb8e66b1/3b7552ef4d119cbef65f?experience=power-bi)
 
 ## 💼 Business Impact
 DAX-driven risk flag reduced manual risk review 
